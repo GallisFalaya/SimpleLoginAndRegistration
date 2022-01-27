@@ -1,0 +1,27 @@
+{
+  "Tom12": {
+    "password": "1234Qw!",
+    "name": "Tomasz",
+    "lastname": "Nowak"
+  },
+  "Eve99": {
+    "password": "Flower2@",
+    "name": "Ewa",
+    "lastname": "Kowalska"
+  },
+  "Ben10": {
+    "password": "Alpha1!",
+    "name": "Ben",
+    "lastname": "Edison"
+  },
+  "John123": {
+    "password": "Qwer1!",
+    "name": "John",
+    "lastname": "Lee"
+  },
+  "KacSta": {
+    "password": "Password1!",
+    "name": "Kacper",
+    "lastname": "Stanowicki"
+  }
+}
